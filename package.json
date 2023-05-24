@@ -1,0 +1,15 @@
+{
+    "author": "Maurice Snip",
+    "devDependencies": {
+        "@playwright/test": "^1.34.2"
+    },
+    "scripts": {
+        "test": "npx playwright test"
+    },
+    "engines": {
+        "node": "^18",
+        "npm": "please-use-yarn",
+        "yarn": "^3"
+    },
+    "packageManager": "yarn@3.5.1"
+}
